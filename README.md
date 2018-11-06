@@ -7,4 +7,5 @@
 | --------------- | --------------- | --------------- |
 [Weekly Coding Contest 1](https://www.interviewbit.com/contest/weekly-contest-1/) | 1 | [Python](./Python/weekly_01_01.py)
 [Weekly Coding Contest 2](https://www.interviewbit.com/contest/weekly-contest-1/) | 2 | [Python](./Python/weekly_01_02.py)
+[Weekly Coding Contest 3](https://www.interviewbit.com/contest/weekly-contest-1/) | 3 | [Python](./Python/weekly_01_03.py)
 
