@@ -1,7 +1,9 @@
+# https://www.interviewbit.com/problems/city-tour/
+
+
 import sys
 sys.setrecursionlimit(5000)
 
-max_depth = 0
 
 class Solution:
     # @param A : integer
@@ -11,8 +13,6 @@ class Solution:
         return C1 * C2 * self.fact(L1 + L2, memo) // (self.fact(L1, memo) * self.fact(L2, memo))
 
     def fact(self, n, memo):
-        global max_depth
-        max_depth += 1
         if n in memo: return memo[n]
         if n <= 1: return 1
         v = self.fact(n - 1, memo) * n

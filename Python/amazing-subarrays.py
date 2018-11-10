@@ -1,3 +1,6 @@
+# https://www.interviewbit.com/problems/amazing-subarrays/
+
+
 class Solution:
     # @param A : string
     # @return an integer
