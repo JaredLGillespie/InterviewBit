@@ -1,11 +1,11 @@
-# [Interview Bit](https://interviewbit.com/contests/)
+# [Interview Bit](https://interviewbit.com/)
 
 ![Github](https://img.shields.io/badge/languages-python-green.svg?longCache=true&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)
 
-|  Contest | Question | Solution |
+|  Category | Question | Solution |
 | --------------- | --------------- | --------------- |
-[Weekly Coding Contest 1](https://www.interviewbit.com/contest/weekly-contest-1/) | 1 | [Python](./Python/weekly_01_01.py)
-[Weekly Coding Contest 2](https://www.interviewbit.com/contest/weekly-contest-1/) | 2 | [Python](./Python/weekly_01_02.py)
-[Weekly Coding Contest 3](https://www.interviewbit.com/contest/weekly-contest-1/) | 3 | [Python](./Python/weekly_01_03.py)
+Programming - Strings | [Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/) | [Python](Python/amazing-subarrays.py)
+Programming - Math | [City Tour](https://www.interviewbit.com/problems/city-tour/) | [Python](Python/city-tour.py)
+Programming - Math | [Random Attendance](https://www.interviewbit.com/problems/random-attendance/) | [Python](./Python/random-attendance.py)
 
